@@ -1,45 +1,22 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: http://pfVRbRy1xBUgT5k:qM0xkyrf6UAAOCV@localhost:42336/storage/emulated/0/new.html
-Subject: form
-Date: Wed, 21 Feb 2024 22:47:08 +0530
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--oIHi00sKaVeAlOsDfP9LCjE5QMP1OaBejuTYCEbxNq----"
 
-
-------MultipartBoundary--oIHi00sKaVeAlOsDfP9LCjE5QMP1OaBejuTYCEbxNq----
-Content-Type: text/html
-Content-ID: <frame-A59C952E1E256CCDFE31B62BE9D49314@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://pfVRbRy1xBUgT5k:qM0xkyrf6UAAOCV@localhost:42336/storage/emulated/0/new.html
-
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<DOCTYPE.HTML>
+  <HEAD> 
+    <TITLE><i></i></TITLE>
+    </head>
+  <body>  
+    <h1 style= "color:green;">jai kp sir</h1>  
+    
+  </body>
+<script type="text/javascript">
+    function msg(){
+    alert("finally completed three ways of declaring java script😏");
+  }
   
-  <title>form</title>
-</head>
-<body>
-  <h1>
-     form for student details
-  </h1>
-  <form><table align="center"><tbody><tr>
-    <td>first name</td><td>:<input type="text"></td> </tr>
-    <tr><td>last name </td><td> :<input type="text"></td></tr>
-    <tr> <td>gender  </td><td>  :<input type="gender"></td></tr>
-    <tr><td>goal        </td><td> :<input type="text"></td></tr>
-    <tr><td>DOB     </td><td>:<input type="date"></td></tr>
-     <tr><td>religian   </td><td>:<input type="text"></td></tr>
-     <tr><td>  phone number </td><td>:<input type="number"></td></tr>
-     <tr><td>  email </td><td>:<input type="email"></td></tr>
-    </tbody></table>
-    
-    
-          <input type="submit">
-   
-    
-    
+    </script>
+<form> 
+    <input type ="button" value = "click " onclick="msg()" style ="color:red">
+      
   </form>
+    
+  </html>
 
-
-</body></html>
-------MultipartBoundary--oIHi00sKaVeAlOsDfP9LCjE5QMP1OaBejuTYCEbxNq------
